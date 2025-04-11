@@ -45,8 +45,7 @@ Instructions for using the program:
 
 # STEP 1: Install python from the official site: https://www.python.org/
 # STEP 2: Install Visual Studio Code the offiicial site: https://code.visualstudio.com/
-# STEP 3: In the blocks of code marked with comments # Open source, enter your data and the invented password and user name
-# STEP 4: Run the code.
-# STEP 5: Enter the WEB application via the site's IP
+# STEP 3: Run the code.
+# STEP 4: Enter the WEB application via the site's IP
 
 # the application is open-source and available exclusively for developers who are interested in contributing to its growth, improvement, or adaptation to specific use cases.
